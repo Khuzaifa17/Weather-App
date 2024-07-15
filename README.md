@@ -4,12 +4,12 @@
 The Weather App is a comprehensive weather information solution designed to provide users with real-time weather updates for different cities. Each user can easily search for and view current weather conditions, ensuring they stay informed and prepared. The app offers a seamless experience for checking weather details, including temperature, humidity, wind speed, and overall weather conditions.
 
 ## Key Features
-- **Weather Information:**
+**Weather Information:**
 - **Search City Weather:** Easily search for and view current weather conditions for any city.
 - **Real-Time Updates:** Get up-to-date weather information instantly.
 - **Detailed Weather Data:** Access detailed information such as temperature, humidity, wind speed, and weather conditions.
 ## User-Friendly Interface:
-I- ntuitive and easy-to-navigate interface for a smooth user experience.
+- Intuitive and easy-to-navigate interface for a smooth user experience.
 - Responsive layout ensures the app looks great on both mobile and desktop devices.
 ## Additional Features:
 - **Favorite Cities:** Save your favorite cities for quick access to their weather updates.
